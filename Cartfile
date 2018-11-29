@@ -1,2 +1,2 @@
-github "swift/SwiftBase58"
-github "swift/VarInt"
+github "shlemph/SwiftBase58"
+github "shlemph/VarInt"
